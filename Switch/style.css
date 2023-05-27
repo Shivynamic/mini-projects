@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(60, 0, 128);
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.main-heading h1{
+color:#f4f4f4;
+}
+
+.main-heading h2{
+    margin-bottom: 20px;
+}
+
+button {
+    display:inline-flex;
+    background: #f8b627;
+    color: #f4f4f4;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+    border-radius: 3px;
+    transition: 400ms;
+    text-decoration: none;
+    padding: 10px;
+    z-index: 100000;
+    cursor: pointer;
+}
+
+img{
+    width:150px
+}
